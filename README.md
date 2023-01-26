@@ -1,2 +1,2 @@
-# Dungeons-and-Flagons
+# Dungeons and Flagons
 Dungeons &amp; Flagons
